@@ -10,8 +10,4 @@ export class AppController {
     session.playerOne = `"Thiago Miné"`;
     return session;
   }
-
-  // getHello(): string {
-  //   return this.appService.getHello();
-  // }
 }
